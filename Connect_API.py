@@ -220,6 +220,9 @@ def get_messages():
         })
 
     return jsonify(result), 200
+@app.route('/')
+def index():
+    return 'Welcome to Piyush API'
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', debug=True)
