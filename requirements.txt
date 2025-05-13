@@ -74,14 +74,13 @@ pdfminer.six==20221105
 pdfplumber==0.10.2
 pdfrw==0.4
 pdftables-api @ https://github.com/pdftables/python-pdftables-api/archive/master.tar.gz
-Pillow==10.0.0
+
 preshed==3.0.9
 proto-plus==1.26.0
 protobuf==5.29.3
 psutil==5.9.8
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
-PyAudio==0.2.14
 pycparser==2.21
 pydantic==2.7.1
 pydantic_core==2.18.2
