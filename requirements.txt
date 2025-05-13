@@ -1,4 +1,4 @@
-﻿absl-py==2.1.0
+absl-py==2.1.0
 annotated-types==0.7.0
 asgiref==3.7.2
 beautifulsoup4==4.12.2
@@ -73,8 +73,8 @@ pdfkit==1.0.0
 pdfminer.six==20221105
 pdfplumber==0.10.2
 pdfrw==0.4
-pdftables-api @ https://github.com/pdftables/python-pdftables-api/archive/master.tar.gz
-
+pdftables-api @ https://github.com/pdftables/python-pdftables-api/archive/master.tar.gz#
+Pillow==10.0.0
 preshed==3.0.9
 proto-plus==1.26.0
 protobuf==5.29.3
